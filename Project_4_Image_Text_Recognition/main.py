@@ -11,7 +11,7 @@ import cv2
 import pytesseract
 
 # Load Image
-image = cv2.imread("dataset/sample_image.png")
+image = cv2.imread("dataset/sample_image.png.jpg")
 
 # Check Image
 if image is None:
@@ -42,6 +42,6 @@ with open("output/extracted_text.txt", "w", encoding="utf-8") as file:
     file.write(text)
 
 # Save Processed Image
-cv2.imwrite("output/output_image.png", threshold)
+cv2.imwrite("output/output_image.png.jpg", threshold)
 
 print("\nProject Completed Successfully.")
