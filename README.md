@@ -6,6 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)](https://scikit-learn.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green?style=for-the-badge&logo=opencv)](https://opencv.org/)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)]()
 
@@ -17,7 +18,7 @@
 
 This repository contains all projects completed during the **DecodeLabs Artificial Intelligence Internship (2026)**.
 
-The projects focus on building a strong foundation in Artificial Intelligence, Machine Learning, Recommendation Systems, and Python programming through practical implementation.
+The projects focus on building practical Artificial Intelligence and Machine Learning applications using Python and industry-standard libraries.
 
 ---
 
@@ -25,9 +26,10 @@ The projects focus on building a strong foundation in Artificial Intelligence, M
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
-| 🤖 Project 1 | Rule-Based Chatbot | Python | ✅ Completed |
-| 📊 Project 2 | KNN Classification | Python, Pandas, NumPy, Scikit-learn | ✅ Completed |
-| 🧠 Project 3 | AI Career Recommendation System | TF-IDF, Cosine Similarity, Scikit-learn | ✅ Completed |
+| 🤖 Project 1 | Rule-Based AI Chatbot | Python | ✅ Completed |
+| 🌸 Project 2 | Iris Flower Classification using KNN | Python, Pandas, Scikit-learn | ✅ Completed |
+| 🧠 Project 3 | AI Career Recommendation System | TF-IDF, Cosine Similarity | ✅ Completed |
+| 📄 Project 4 | AI Image Text Recognition (OCR) | OpenCV, Tesseract OCR, Pillow | ✅ Completed |
 
 ---
 
@@ -37,8 +39,13 @@ The projects focus on building a strong foundation in Artificial Intelligence, M
 - 📊 Pandas
 - 🔢 NumPy
 - 🤖 Scikit-learn
+- 📈 Matplotlib
+- 🎨 Seaborn
 - 📝 TF-IDF Vectorization
 - 🎯 Cosine Similarity
+- 📷 OpenCV
+- 🔍 Tesseract OCR
+- 🖼 Pillow
 
 ---
 
@@ -49,21 +56,24 @@ decodelabs_tasks/
 │
 ├── Project_1_Rule_Based_Chatbot/
 │
-├── Project_2_KNN_Classification/
+├── Project_2_Iris_Classification/
 │
 ├── Project_3_AI_Career_Recommendation_System/
+│
+├── Project_4_Image_Text_Recognition/
 │
 └── README.md
 ```
 
 ---
 
-# 🎯 Internship Objective
+# 🎯 Internship Objectives
 
-- Build practical AI projects
+- Build practical Artificial Intelligence projects
 - Learn Machine Learning fundamentals
-- Understand Recommendation Systems
-- Develop problem-solving skills using Python
+- Implement Recommendation Systems
+- Perform Image Text Recognition using OCR
+- Strengthen Python programming skills
 - Create a professional GitHub portfolio
 
 ---
@@ -78,10 +88,16 @@ decodelabs_tasks/
 
 ---
 
+# 📜 License
+
+This repository is licensed under the **MIT License**.
+
+---
+
 <div align="center">
 
-### ⭐ If you found this repository useful, consider giving it a star!
+### ⭐ Thank you for visiting this repository!
 
-Made with ❤️ during the DecodeLabs AI Internship 2026.
+Developed during the **DecodeLabs Artificial Intelligence Internship 2026**.
 
 </div>
